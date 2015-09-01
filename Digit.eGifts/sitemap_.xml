@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://digit-egifts.22web.org/</loc>
+  <changefreq>weekly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+	<loc>http://digit-egifts.22web.org/CC/Trackmania2 - 04-04-2015.php</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://digit-egifts.22web.org/m/</loc>
+	<changefreq>weekly</changefreq>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://digit-egifts.22web.org/m/CC/Trackmania2_18_04_2015.php</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://digit-egifts.22web.org/m/CC/GarrysMod - 01_05_2015.php</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://digit-egifts.22web.org/CC/GarrysMod - 01_05_2015.php</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.8</priority>
+</url>
+<url>
+  <loc>http://digit-egifts.22web.org/contact.php</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://digit-egifts.22web.org/m/contact.php</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://digit-egifts.22web.org/partenaires.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://digit-egifts.22web.org/m/partenaires.php</loc>
+  <changefreq>weekly</changefreq>
+  <priority>1.0</priority>
+</url>
+</urlset>
